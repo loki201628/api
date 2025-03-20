@@ -4,8 +4,16 @@
     <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredPackages">
         <value>
+<<<<<<< HEAD
           <list size="1">
             <item index="0" class="java.lang.String" itemvalue="psycopg2" />
+=======
+          <list size="4">
+            <item index="0" class="java.lang.String" itemvalue="fastapi" />
+            <item index="1" class="java.lang.String" itemvalue="pymongo" />
+            <item index="2" class="java.lang.String" itemvalue="python-dotenv" />
+            <item index="3" class="java.lang.String" itemvalue="uvicorn" />
+>>>>>>> 8d3ed4208c879d0c97f32d9bad92b13cb1d4a101
           </list>
         </value>
       </option>

@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/CMS_Update.iml" filepath="$PROJECT_DIR$/.idea/CMS_Update.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/main.py.iml" filepath="$PROJECT_DIR$/.idea/main.py.iml" />
+>>>>>>> 8d3ed4208c879d0c97f32d9bad92b13cb1d4a101
     </modules>
   </component>
 </project>
