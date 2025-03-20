@@ -1,0 +1,28 @@
+#fastapi
+#uvicorn
+#pymongo
+#pydantic[email]
+#motor==3.3.2
+#SQLAlchemy==2.0.29
+#asyncpg==0.29.0
+#psycopg2-binary==2.9.9
+#python-dotenv==1.0.1
+# Web framework
+fastapi>=0.95.0
+uvicorn>=0.21.1
+
+# Database drivers
+pymongo>=4.3.3
+psycopg2-binary>=2.9.5
+
+# Validation and data parsing
+pydantic>=1.10.7
+email-validator>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+uuid>=1.30
+
+# Excel file handling
+openpyxl>=3.1.2
+xlsxwriter>=3.1.0
